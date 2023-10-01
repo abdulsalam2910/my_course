@@ -139,3 +139,7 @@
 // let num1=5
 // let num2="10"
 // console.log(typeof(num1+num2))
+
+let text = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+let length = text.length;
+console.log(length)
