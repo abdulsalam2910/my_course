@@ -1,5 +1,0 @@
-qdiqufqijd;iklskd;WebGL
-wdliwqudoiwdjwl;qdjlwudoiq
-dqwjdtqwiudwqldhlqwhd
-qdqwgduiwqdiuwqgd
-qwkdjwqyiudywqdi
