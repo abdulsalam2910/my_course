@@ -1,4 +1,4 @@
-qdiqufqijd;if;klskd;WebGLQuery;
+qdiqufqijd;iklskd;WebGL
 wdliwqudoiwdjwl;qdjlwudoiq
 dqwjdtqwiudwqldhlqwhd
 qdqwgduiwqdiuwqgd
