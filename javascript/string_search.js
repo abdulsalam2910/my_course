@@ -76,5 +76,5 @@
 
 
 // string indexof() just explained
-// string last indexof()
+// string last indexof() 
 
