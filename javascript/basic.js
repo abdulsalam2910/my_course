@@ -26,12 +26,45 @@
 // let data=`baby toy's are made up of "garbage" plastic`
 // console.log(data)
 
-//<<< checking of name length
+// checking of name length
 
 // let name="abdul salam"
 // console.log(name.length)
 
+// when we redeclare variable it runs in var.
+// var x=5
+// console.log("before",x)
+// var x=6
+// console.log("after",x)
 
+// when we reassign in var it also runs.
+// var x=5
+// console.log("before",x)
+//  x=6
+// console.log("after",x)
+
+// when redeclare in let and run it shows error
+// let x=5
+// console.log("before",x)
+// let x=6
+// console.log("after",x)
+
+// when we reassign variable in let it runs
+// let x=5
+// console.log("before",x)
+//  x=6
+// console.log("after",x)
+
+// in const we connot redeclare and reassign.
+// const x=5
+// console.log("before",x)
+// const x=6
+// console.log("after",x)
+
+// const x=5
+// console.log("before",x)
+//  x=6
+// console.log("after",x)
 
 // for full name
 // let firstName="abdul"
