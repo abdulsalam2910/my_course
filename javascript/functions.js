@@ -59,25 +59,75 @@
 
 
 
-// <<<we can in this way also
-const sum1 =(a,b)=>{
-    console.log(a+b)
-}
+// <<<we can write in this way also
+// const sum1 =(a,b)=>{
+//     console.log(a+b)
+// }
+// const sub =(a,b)=>{
+//     console.log(a-b)
+// }
+// const multiply =(a,b)=>{
+//     console.log(12-3)
+// }
+// const divide =(a,b)=>{
+//     console.log(24/2)
+// }
+// const reminder =(a,b)=>{
+//     console.log(5%5)
+// }
+
+// sum1(1,2)
+// sub(9,3)
+// multiply(12,3)
+// divide(24,2)
+// reminder(5,5)
+
+// <<<<return calling function
+// const sum1 =(a,b)=>{
+//     let output =a+b
+//     return output
+    // return("add",a+b)
+    // return a+b
+// }
 const sub =(a,b)=>{
+    // return("sub",a-b)
+    //  return a-b
     console.log(a-b)
 }
-const multiply =(a,b)=>{
-    console.log(12-3)
-}
-const divide =(a,b)=>{
-    console.log(24/2)
-}
-const reminder =(a,b)=>{
-    console.log(5%5)
-}
 
-sum1(1,2)
-sub(9,3)
-multiply(12,3)
-divide(24,2)
-reminder(2,5)
+// const finaloutput =sum1(2,4)
+// console.log("finaloutput",finaloutput)
+
+
+// const finaloutput1 =sub(9,3)
+// console.log("finaloutput1",finaloutput)
+console.log(a-b)
+
+
+
+
+// const output =(num1,num2,op)=>{
+// if(op=="+"){
+//     console.log(num1+num2)
+// }
+// else if (op=="-"){
+//     console.log(num1-num2)
+// }
+// else if (op=="*"){
+// console.log(num1*num2)
+// }
+// else if (op=="/"){
+//     console.log(num1/num2)
+// }
+// else if (op=="%"){
+//     console.log(num1%num2)
+//  } else {
+//     console.log("no results")
+//  }
+// }
+
+// output(2,3,"+")
+// output(2,3,"/")
+// output(2,3,"*")
+// output(2,3,"-")
+// output(2,3,"%")
