@@ -89,11 +89,11 @@
     // return("add",a+b)
     // return a+b
 // }
-const sub =(a,b)=>{
+// const sub =(a,b)=>{
     // return("sub",a-b)
     //  return a-b
-    console.log(a-b)
-}
+    // console.log(a-b)
+// }
 
 // const finaloutput =sum1(2,4)
 // console.log("finaloutput",finaloutput)
@@ -101,7 +101,7 @@ const sub =(a,b)=>{
 
 // const finaloutput1 =sub(9,3)
 // console.log("finaloutput1",finaloutput)
-console.log(a-b)
+// console.log(a-b)
 
 
 
