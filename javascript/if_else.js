@@ -64,3 +64,22 @@
 //   console.log("Good day");
 // } else {
 //   console.log("Good evening");}
+
+
+// let n=5
+// // if(n>5)
+// if(n>=5){
+//     console.log("abdul")
+// }else{
+//     console.log("salam")
+// }
+
+let n=110
+if(n>10){
+    console.log("navyadeepa")
+    if (n>100){
+        console.log("ramakrishna")
+    }else{
+        console.log("salam")
+    }
+}
