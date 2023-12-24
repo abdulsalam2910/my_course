@@ -60,11 +60,11 @@
 // let total=(num1+num2)
 // console.log(total)
 
-let name="abdul"
-let num1=10
-let data=name+num1
-console.log("total",data)
-console.log("total",typeof(data))
+// let name="abdul"
+// let num1=10
+// let data=name+num1
+// console.log("total",data)
+// console.log("total",typeof(data))
 
 // let num1=10
 // let name="abdul"
