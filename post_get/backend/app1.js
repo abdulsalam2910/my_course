@@ -3,7 +3,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const cors = require('cors');
-const bcrypt = require('bcrypt')
+const bcrypt = require('bcrypt');
 
 const app = express();
 const PORT = 5000;
@@ -44,6 +44,7 @@ app.post('/signup', async (req, res) => {
     const hashedpassword = await bcrypt.hash(password,10)
      const newUser = new User({ username, password: hashedpassword })
      await newUser.save()
+     console.log (newUser)
      res.json({message: "User created successfully"})
   
     } catch (error) {
