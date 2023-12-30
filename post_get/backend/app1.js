@@ -65,7 +65,12 @@ app.post('/signin', async (req, res) => {
       return res.status(404).send("user not found")
      }
      const passwordMatch = await bcrypt.compare(password,user.password)
+     if(!passwordMatch){
+      return res.status(401).send("invalid password")
+     }
+     res.status(200).send("signin successfull")
      console.log("passwordMatch",passwordMatch)
+
   
     } catch (error) {
      console.error(error)
