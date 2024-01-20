@@ -9,7 +9,7 @@ addBtn.addEventListener("click", function(){
 })
 
 function addTask(task) {
-    var li =document.createElement("li")
+    var li = document.createElement("li")
     li.innerHTML = task
     taskList.appendChild(li)
 }

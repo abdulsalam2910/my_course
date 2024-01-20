@@ -1,0 +1,41 @@
+#container {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+ form {
+    margin-bottom: 20px;
+  }
+
+  #task {
+    width: 80px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+   }
+
+   button {
+    width: 20%;
+    background-color: rgb(105, 221, 105);
+    color: rgb(216, 52, 129);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+
+   }
+
+   ul  {
+    list-style: none;
+   }
+
+   li{
+    background-color: rgb(194, 105, 105);
+    padding: 10px;
+    margin-bottom: 10px;
+   }
+
+   .done {
+    text-decoration: line-through;
+   }
